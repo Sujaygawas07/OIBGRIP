@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(0,255,0,0.2);
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+  h1, #title{
+    text-shadow: 5px 5px 10px grey;
+    text-align: center;
+    font-size: 3em;
+    bottom: 0;
+  }
+  blockquote{
+    top: 0;
+  }
+  img{
+
+  display: block;
+  margin-left: 10%;
+  margin-right: 10%;
+  max-width: 50%;
+  
+  }
+  #main{
+    font-family: monospace;
+    background-image: url(https://images.hindustantimes.com/img/2021/06/13/1600x900/sushant_singh_rajput_1623580566727_1623580574266.jpeg);
+    
+  }
+  div #tribute-info{
+    
+    box-shadow: 20px 20px 15px grey;
+    margin-top: 50px;
+    padding: 20px;
+    text-align: justify;
+  }
+  #title_hedy{
+  
+    text-align: center;
+    color: white;
+    text-shadow: 5px 5px 10px black;
+  }
